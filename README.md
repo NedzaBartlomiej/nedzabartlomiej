@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Marine Unit Monitoring](https://github.com/NedzaBartlomiej/marine-unit-monitoring)
 
-- 🌱 I’m currently learning **Spring Boot, Docker, Linux bash,**
+- 🌱 I’m currently learning **Spring Boot, Docker, Linux shell,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NedzaBartlomiej](https://github.com/NedzaBartlomiej)
 
