@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **Spring Boot, Docker, Linux shell,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NedzaBartlomiej](https://github.com/NedzaBartlomiej)
+  
+- 💬 You can read my blog articles about programming topics here [Medium.com blog](https://medium.com/@bartek21122006)
 
 - 💬 You can ask me about **How to start learn programming, basic issues and advices, easy explanations for difficult to understand basic concepts**
 
