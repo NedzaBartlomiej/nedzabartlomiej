@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bartłomiej Nędza</h1>
 <h3 align="center">A beginner backend developer from Poland</h3>
 
-- 🔭 I’m currently working on [Marine Unit Monitoring](https://github.com/NedzaBartlomiej/marine-unit-monitoring)
+- 🔭 I’m currently working on [Marine Unit Monitoring](https://github.com/NedzaBartlomiej/marine-unit-monitoring-microservice)
 
 - 🌱 I’m currently learning **Spring Boot, Docker, Linux shell,**
 
