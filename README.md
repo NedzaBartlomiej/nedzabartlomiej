@@ -9,6 +9,8 @@
   
 - 💬 You can read my blog articles about programming topics here [Medium.com blog](https://medium.com/@bartek21122006)
 
+- 💬 Here is also my google docs where I describe interview issues and generally such a summary of knowledge about Java Spring boot and general programming ecosystem - [You can check it here](https://docs.google.com/document/d/1Tu0vUWpgz-mRdru4MbuVSrt0O2r_aw_n-_e6Y6COh1A/edit)
+
 - 💬 You can ask me about **How to start learn programming, basic issues and advices, easy explanations for difficult to understand basic concepts**
 
 - 📫 How to reach me **bartek21122006@gmail.com**
