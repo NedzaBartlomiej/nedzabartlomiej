@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Marine Unit Monitoring - microservice](https://github.com/NedzaBartlomiej/marine-unit-monitoring-microservice)
 
-- 🌱 I’m currently learning **Spring Boot, Docker, Linux shell,**
+- 🌱 I’m currently learning **Spring Boot, Docker, Linux shell, Git, The best practices, Algorithms, and much more...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NedzaBartlomiej](https://github.com/NedzaBartlomiej)
   
