@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bartłomiej Nędza</h1>
 <h3 align="center">A beginner backend developer from Poland</h3>
 
-- 🔭 I’m currently working on [Marine Unit Monitoring - microservice](https://github.com/NedzaBartlomiej/marine-unit-monitoring-microservice)
+- 🔭 I’m currently working on [Marine Unit Monitoring - microservice](https://github.com/NedzaBartlomiej/marine-unit-monitoring-microservice) and my DSA training and skills development [here](https://github.com/NedzaBartlomiej/DSA-code-base)
 
-- 🌱 I’m currently learning **Spring Boot, Docker, Linux shell, Git, The best practices, Algorithms, and much more...**
+- 🌱 I’m currently learning **Spring Boot, Docker, Linux shell, Git, The best practices, Design patterns, Algorithms, and much more...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NedzaBartlomiej](https://github.com/NedzaBartlomiej)
   
