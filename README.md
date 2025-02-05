@@ -13,7 +13,7 @@
 
 - 💬 You can ask me about **How to start learn programming, basic issues and advices, easy explanations for difficult to understand basic concepts**
 
-- 📫 How to reach me **bartek21122006@gmail.com**
+- 📫 How to reach me **nedzabartlomiej2@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">- Main used: (Mastering it)</h4>
